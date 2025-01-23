@@ -19,14 +19,14 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: eristonDev
+        uses: eristonDev&locale
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
 
       - name: push snake.svg to the output branch
-        uses: eristonDev
+        uses: eristonDev&locale
         with:
           target_branch: output
           build_dir: dist
