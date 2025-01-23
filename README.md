@@ -28,7 +28,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eristonDev/eristonDev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eristonDev&locale/eristonDev&locale/output/snake.svg" alt="Snake animation" />
 
 ###
 
