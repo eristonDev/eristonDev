@@ -1,7 +1,7 @@
 <h2 align="left">Olá dev! Eriston Aqui!</h2>
 
 ###
-
+<p align="left">Skill</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="20" alt="html5 logo"  />
   <img width="12" />
